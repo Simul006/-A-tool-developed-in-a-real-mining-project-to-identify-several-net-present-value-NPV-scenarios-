@@ -1,0 +1,1 @@
+# -A-tool-developed-in-a-real-mining-project-to-identify-several-net-present-value-NPV-scenarios-
